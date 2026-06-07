@@ -91,4 +91,4 @@ iris-flower-classification/
 - ipywidgets (Interactive UI)
 
 ## 👤 Author
-**Your Name** — [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourusername)
+**Dawood Ahmad** — [GitHub](https://github.com/dawoodahmadbakhsh21-web) | [LinkedIn](https://linkedin.com/in/yourusername)
