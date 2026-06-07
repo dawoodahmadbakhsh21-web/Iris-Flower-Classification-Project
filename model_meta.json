@@ -1,0 +1,17 @@
+{
+  "features": [
+    "sepal length (cm)",
+    "sepal width (cm)",
+    "petal length (cm)",
+    "petal width (cm)"
+  ],
+  "classes": [
+    "setosa",
+    "versicolor",
+    "virginica"
+  ],
+  "best_model": "k-NN",
+  "test_accuracy": 0.9333,
+  "cv_mean": 0.9667,
+  "cv_std": 0.0312
+}
